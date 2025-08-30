@@ -1,6 +1,5 @@
 
 import random
-import sys
 from faker import Faker
 
 class Generator:
@@ -123,7 +122,3 @@ def main():
     
     print("\nGenerated text:")
     print(gen.generate())
-
-# Example usage
-if __name__ == "__main__":
-    main()
