@@ -12,6 +12,7 @@ A comprehensive typing practice application built in Python that helps users imp
 
 ## Project Structure
 
+```
 TypingLab/   
 ├── main.py            
 ├── .gitignore            
@@ -23,6 +24,7 @@ TypingLab/
 │   ├── calculator.py
 ├── requirements.txt
 └── README.md
+```
 
 ## dependencies:
 ```bash
